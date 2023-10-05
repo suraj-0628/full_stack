@@ -1,0 +1,17 @@
+export const title=[
+    "PUFFS",
+    "SANDWICH",
+   " CHICKEN RICE",
+   " NOODLES",
+    "BIRYANI",
+   " MAGGI",
+   " POROTA ROLL",
+   "CHAPATHI ROLL",
+    "BREAD OMBLET",
+    "DRY ITEMS",
+   "TEA/COFFEE",
+    "JUICE",
+    "MOJITO",
+   " MILKSHAKE",
+    "THATTU VADAI SET",
+]

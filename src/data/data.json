@@ -1,0 +1,299 @@
+{
+    "puffs": [
+        {
+            "name":"EGG PUFFS",
+            "image": "./src/assets/puffs/egg-puffs.jpg",
+            "price":"20" 
+        },
+        {
+            "name":"MUSHROOM PUFFS",
+            "image": "./src/assets/puffs/mushroom-puffs.jpg",
+            "price":"25"
+        },
+        {
+            "name":"VEG PUFFS",
+            "image": "./src/assets/puffs/veg-puffs.jpg",
+            "price":"20"
+        }
+    ],
+    "sandwich": [
+        {
+            "name":"CHICKEN SANDWICH",
+            "image": "./src/assets/sandwich/chicken-sandwitch.jpg",
+            "price":"50" 
+        },
+        {
+            "name":"VEG SANDWICH",
+            "image": "./src/assets/sandwich/veg-sandwich.jpg",
+            "price":"30"
+        }
+    ],
+    "porota-roll": [
+        {
+            "name":"CHICKEN POROTA ROLL",
+            "image": "./src/assets/porota-roll/chicken-porota-roll.jpg",
+            "price":"50" 
+        },
+        {
+            "name":"EGG POROTA ROLL",
+            "image": "./src/assets/porota-roll/egg-porota.jpg",
+            "price":"45" 
+        },
+        {
+            "name":"VEG POROTA ROLL",
+            "image": "./src/assets/porota-roll/veg-porota.jpg",
+            "price":"40" 
+        }
+    ],
+    "noodles": [
+        {
+            "name":"CHICKEN NOODLES",
+            "image": "./src/assets/noodles/chicken-noodles.jpg",
+            "price":"50" 
+        },
+        {
+            "name":"EGG NOODLES",
+            "image": "./src/assets/noodles/egg-noodles.jpg",
+            "price":"45" 
+        },
+        {
+            "name":"VEG NOODLES",
+            "image": "./src/assets/noodles/veg-noodles.png",
+            "price":"40" 
+        }
+    ],
+    "thattu-vadai-set": [
+        {
+            "name":"CHICKEN NORUKALS",
+            "image": "./src/assets/norukals/chicken-norukals.jpeg",
+            "price":"50" 
+        },
+        {
+            "name":"EGG NORUKALS",
+            "image": "./src/assets/norukals/egg-norukals.jpg",
+            "price":"45" 
+        },
+        {
+            "name":"VEG NORUKALS",
+            "image": "./src/assets/norukals/veg-norukals.jpg",
+            "price":"40" 
+        },
+        {
+            "name":"CHICKEN THATTU SET",
+            "image": "./src/assets/norukals/chicken-thattu-set.jpg",
+            "price":"50" 
+        },
+        {
+            "name":"EGG THATTU SET",
+            "image": "./src/assets/norukals/eggs-thattu-set.jpg",
+            "price":"45"
+        },
+        {
+            "name":"GARLIC THATTU SET",
+            "image": "./src/assets/norukals/garlic-Thattu-Vadai.jpg",
+            "price":"25" 
+        },
+        {
+            "name":"PLAIN THATTU SET",
+            "image": "./src/assets/norukals/plain-thattu-vadai.jpg",
+            "price":"20" 
+        },
+        {
+            "name":"NORMAL THATTU SET",
+            "image": "./src/assets/norukals/Thattu-Vadai-normal.jpg",
+            "price":"20" 
+        }
+
+
+
+    ],
+    "mojito": [
+        {
+            "name":"BLUE MOJITO",
+            "image": "./src/assets/mojito/blue-mojito.jpg",
+            "price":"30" 
+        },
+        {
+            "name":"MINT MOJITO",
+            "image": "./src/assets/mojito/mint-mojito.jpg",
+            "price":"30" 
+        },
+        {
+            "name":"39PM MOJITO",
+            "image": "./src/assets/mojito/39pm-mojito.jpg",
+            "price":"30" 
+        },
+        {
+            "name":"MANGO MOJITO",
+            "image": "./src/assets/mojito/mango-mojito.jpg",
+            "price":"30" 
+        },
+        {
+            "name":"VIRGIN MOJITO",
+            "image": "./src/assets/mojito/Virgin-Mojito.jpeg",
+            "price":"30" 
+        },
+        {
+            "name":"BUBBLEGUM MOJITO",
+            "image": "./src/assets/mojito/bubblegum-mojito.jpg",
+            "price":"30" 
+        },
+        {
+            "name":"COTTON CANDY MOJITO",
+            "image": "./src/assets/mojito/cotton-Candy-Mojito.jpg",
+            "price":"30" 
+        }
+    ],
+    "milkshake": [
+        {
+            "name":"BUTTER SCOTCH MILKSHAKE",
+            "image": "./src/assets/milkshake/butterscotch-milkshake.jpg",
+            "price":"40" 
+        },
+        {
+            "name":"CHOCOLATE MILKSHAKE",
+            "image": "./src/assets/milkshake/chocolate-milkshake.jfif",
+            "price":"40" 
+        },
+        {
+            "name":"MANGO MILKSHAKE",
+            "image": "./src/assets/milkshake/Mango-Milkshake.jpg",
+            "price":"40" 
+        },
+        {
+            "name":"STRAWBERRY MILKSHAKE",
+            "image": "./src/assets/milkshake/Strawberry-Milkshake.jpg",
+            "price":"40" 
+        },
+        {
+            "name":"VANILLA MILKSHAKE",
+            "image": "./src/assets/milkshake/vanilla-milkshake.jpg",
+            "price":"40" 
+        },
+        {
+            "name":"KIT-KAT MILKSHAKE",
+            "image": "./src/assets/milkshake/kitkat-milkshake.jpg",
+            "price":"50" 
+        },
+        {
+            "name":"OREO MILKSHAKE",
+            "image": "./src/assets/milkshake/oreo-milkshake.jpg",
+            "price":"50"
+        }
+    ],
+    "maggi": [
+        {
+            "name":"CHICKEN MAGGI",
+            "image": "./src/assets/maggi/chicken-maggie.jpg",
+            "price":"50" 
+        },
+        {
+            "name":"EGG MAGGI",
+            "image": "./src/assets/maggi/egg-maggie.jpg",
+            "price":"45" 
+        },
+        {
+            "name":"VEG MAGGI",
+            "image": "./src/assets/maggi/Maggi-Noodles-veg.jpg",
+            "price":"40" 
+        }
+    ],
+    "juice": [
+        {
+            "name":"LIME JUICE",
+            "image": "./src/assets/juice/Lime-Juice.jpg",
+            "price":"10" 
+        },
+        {
+            "name":"ROSE MILK",
+            "image": "./src/assets/juice/rose-milk.jpg",
+            "price":"30" 
+        }
+    ],
+    "hot beverages": [
+        {
+            "name":"TEA",
+            "image": "./src/assets/hot-beverages/chai.jpg",
+            "price":"10" 
+        },
+        {
+            "name":"COFFEE",
+            "image": "./src/assets/hot-beverages/coffee.jpg",
+            "price":"15"
+        }
+    ],
+    "fried rice": [
+        {
+            "name":"CHICKEN RICE",
+            "image": "./src/assets/fried-rice/chicken-rice.jpg",
+            "price":"50" 
+        },
+        {
+            "name":"EGG RICE",
+            "image": "./src/assets/fried-rice/Egg-Fried-Rice.jpg",
+            "price":"45" 
+        },
+        {
+            "name":"VEG FRIED RICE",
+            "image": "./src/assets/fried-rice/Veg-Fried-rice.JPG",
+            "price":"40" 
+        }
+    ],
+    "dry items": [
+        {
+            "name":"CHICKEN 65",
+            "image": "./src/assets/dry-items/chicken-65.JPG",
+            "price":"40" 
+        },
+        {
+            
+            "name":"CAULIFLOWER CHILLI",
+            "image": "./src/assets/dry-items/cauliflower-65.jpg",
+            "price":"30" 
+        }
+    ],
+    "CHAPATHI ROLL": [
+        {
+            "name":"CHICKEN CHAPATHI ROLL",
+            "image": "./src/assets/chapathi-roll/Chicken-chapathi-roll.jpg",
+            "price":"50" 
+        },
+        {
+            
+            "name":"EGG CHAPATHI ROLL",
+            "image": "./src/assets/chapathi-roll/egg-chapathi-roll.jpg",
+            "price":"45" 
+        },
+        {
+            
+            "name":"VEG CHAPATHI ROLL",
+            "image": "./src/assets/chapathi-roll/veg-chapathi-roll.jpg",
+            "price":"40" 
+        }
+    ],
+    "bread omblet": [
+        {
+            "name":"BREAD OMBLET",
+            "image": "./src/assets/bread-omblet/bread-omblet.jpg",
+            "price":"30" 
+        },
+        {
+            "name":"CHICKEN BREAD OMBLET ",
+            "image": "./src/assets/bread-omblet/Bread-omelette-chicken.jpg",
+            "price":"50" 
+        }
+    ],
+    "biryani": [
+        {
+            "name":"CHICKEN BIRYANI",
+            "image": "./src/assets/biryani/chicken-biryani.jpg",
+            "price":"60" 
+        },
+        {
+            "name":"GILMA BIRYANI",
+            "image": "./src/assets/biryani/gilma-biryani.jpg",
+            "price":"60"
+        }
+    ]
+
+}
